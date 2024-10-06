@@ -1,7 +1,6 @@
 ## Install
 
-To use the script via python <b>(>=3.11)</b>, you need to download the source and go to the folder where the "requirements.txt" file is located.<br/>
-Here you will need to execute the following command:
+To use the script via python <b>(>=3.11)</b>, you need to download the source and go to the folder where the "requirements.txt" file is located. Here you will need to execute the following command:
 ```sh
 pip3 install -r requirements.txt
 ```
